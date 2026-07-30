@@ -8,4 +8,4 @@ for i in range(n):
     temp = arr[i]
     arr[i] = arr[min]
     arr[min] = temp
-print("Sorted Array:", arr)
+print(arr)

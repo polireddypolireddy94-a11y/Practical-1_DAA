@@ -6,4 +6,4 @@ for i in range(n - 1):
             temp = arr[j]
             arr[j] = arr[j + 1]
             arr[j + 1] = temp
-print("Sorted Array:", arr)
+print(arr)
